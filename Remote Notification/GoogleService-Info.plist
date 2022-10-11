@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>998832161695-jihlq6fnfldfb77of4dmuk0lug1mpakh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.998832161695-jihlq6fnfldfb77of4dmuk0lug1mpakh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCbO1YXh0ZvgDMh6tm9IhOwiNa3kASBzFg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>998832161695</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.idhun90.Remote-Notification</string>
+	<key>PROJECT_ID</key>
+	<string>remotenotification-7a5d8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>remotenotification-7a5d8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:998832161695:ios:09b1542d2a741128de33aa</string>
+</dict>
+</plist>
